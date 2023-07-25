@@ -1,0 +1,31 @@
+.filter,
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 5px;
+}
+
+.filter select,
+.search input {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  font-size: 16px;
+  margin-right: 10px;
+  padding: 5px;
+  width: 100%;
+  max-width: 200px;
+}
+
+.search input {
+  max-width: 300px;
+}
+
+.filter label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.product-list-container {
+  margin-top: -50px;
+}

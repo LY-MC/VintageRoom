@@ -1,0 +1,110 @@
+.cart__table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 2rem;
+}
+
+.cart__table th,
+.cart__table td {
+  border: none;
+  padding: 0.5rem;
+}
+
+.cart__table th {
+  background-color: #f5f5f5;
+  text-align: left;
+}
+
+.cart__table td img {
+  max-width: 80px;
+}
+
+.message {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.price-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+.price__text {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.price__number {
+  padding-bottom: 3px;
+}
+
+.info {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+.cart__btn {
+  display: block;
+  width: 200px;
+  height: 50px;
+  background-color: #ddac7d;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  transition: background-color 0.3s ease-in-out;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 50px;
+}
+
+.cart__btn:active {
+  animation: tap 0.3s ease-in-out;
+}
+
+@keyframes tap {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.9);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.cart__btn:hover {
+  background-color: #93684d;
+}
+
+.cart__btn-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (max-width: 992px) {
+  .cart__btn-container {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .cart__btn {
+    margin: 10px;
+  }
+}
+
+.cart__header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

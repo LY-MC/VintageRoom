@@ -1,0 +1,84 @@
+.footer {
+  background-color: #fde5ce;
+  box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.06);
+  padding: 20px 0;
+}
+
+.footer .logo img {
+  max-height: 50px;
+  margin-bottom: 20px;
+  border-radius: 30px;
+}
+
+.footer .logo .name h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.footer .logo .name p {
+  font-size: 14px;
+  color: #6c757d;
+  margin: 0 0 20px 0;
+}
+
+.footer .links {
+  margin-top: 30px;
+}
+
+.footer .links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer .links ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.footer .links ul li:last-child {
+  margin-right: 0;
+}
+
+.footer .links ul li a {
+  color: #212529;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.footer .links ul li a:hover {
+  color: #566069;
+}
+
+.footer .address p {
+  font-size: 16px;
+  color: #6c757d;
+  margin-top: 30px;
+}
+
+.footer .hours p {
+  font-size: 16px;
+  color: #6c757d;
+  margin-top: 30px;
+}
+
+.footer .hours table {
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.footer .hours table th,
+.footer .hours table td {
+  padding: 10px;
+  border: 1px solid #dee2e6;
+}
+
+.footer .hours table th {
+  font-weight: bold;
+  text-align: center;
+  background-color: #f8f9fa;
+}
+
+.address {
+  margin-bottom: 1px;
+}

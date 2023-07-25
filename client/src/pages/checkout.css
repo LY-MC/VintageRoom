@@ -1,0 +1,36 @@
+.checkout__header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.checkout__cart {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.checkout__input:focus {
+  border-color: #e1c2a6;
+  box-shadow: 0 0 0 0.2rem rgba(221, 172, 125, 0.25);
+}
+
+.checkout__wrapper {
+  margin-bottom: 50px;
+  margin-top: 10px;
+}
+
+.form__name {
+  margin-bottom: 10px;
+}
+
+.checkout__paragraph {
+  display: inline;
+}
+
+.checkout__btn-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
