@@ -8,23 +8,29 @@ I made a website for a small beautiful vintage clothing shop in my home country,
 ### 3. Print screens of the webpage frontend 
 
 Home page:
+
 ![image](https://github.com/LY-MC/VintageRoom/assets/88684853/43c00394-fbb9-4cb3-a52a-ba61346ae01e)
 ![image](https://github.com/LY-MC/VintageRoom/assets/88684853/c268f689-f369-48b4-956a-0d223233d624)
 
 Product card:
+
 ![image](https://github.com/LY-MC/VintageRoom/assets/88684853/320143d9-5d84-49b3-bb87-eb5b273361cd)
 ![image](https://github.com/LY-MC/VintageRoom/assets/88684853/4eac1010-d382-4873-8cd5-1b409e52c6e3)
 
 Sign up page:
+
 ![image](https://github.com/LY-MC/VintageRoom/assets/88684853/b1693173-f374-45f2-8d31-e510d5c67a3b)
 
 Login page:
+
 ![image](https://github.com/LY-MC/VintageRoom/assets/88684853/6831b39f-be49-4a70-a71e-22fc926bd046)
 
 Cart page:
+
 ![image](https://github.com/LY-MC/VintageRoom/assets/88684853/72ec0942-8c9a-4b60-b864-a07b8a133893)
 
 Checkout page:
+
 ![image](https://github.com/LY-MC/VintageRoom/assets/88684853/967c720e-e208-4996-9e04-24985905952c)
 ![image](https://github.com/LY-MC/VintageRoom/assets/88684853/86c6dc46-e032-42cf-849c-f0a41774e55c)
 
